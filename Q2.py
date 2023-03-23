@@ -16,6 +16,6 @@ def countword(file):
     return counter
 
 
-file = open('C:/Users/Ziv1/Desktop/python/DataSets/matala1.txt')
+# file = open('C:/Users/Ziv1/Desktop/python/DataSets/matala1.txt')
 
 # print(countword(file))
